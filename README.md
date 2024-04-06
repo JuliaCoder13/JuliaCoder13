@@ -1,4 +1,7 @@
-### Hi there 👋
+### Привет! Меня зовут Юлия 👋
+
+![Снимок экрана 2024-04-06 в 17 44 06](https://github.com/JuliaCoder13/JuliaCoder13/assets/62074278/67458e0e-2c26-4d13-a16a-e9b9da04dd87)
+
 
 <!--
 **JuliaCoder13/JuliaCoder13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
